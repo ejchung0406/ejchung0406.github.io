@@ -57,7 +57,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-swift-and-trustworthy-large-scale-gpu-simulation-with-fine-grained-error-modeling-and-hierarchical-clustering-has-been-accepted-to-micro-25",
+            },},{id: "news-i-ve-started-internship-as-a-research-associate-at-amd-rad-research-advancement-and-development-excited-to-be-in-the-bay-area-for-the-summer",
+          title: 'I’ve started internship as a Research Associate at AMD RAD (Research Advancement and...',
+          description: "",
+          section: "News",},{id: "news-our-paper-swift-and-trustworthy-large-scale-gpu-simulation-with-fine-grained-error-modeling-and-hierarchical-clustering-has-been-accepted-to-micro-25",
           title: 'Our paper, Swift and Trustworthy Large-Scale GPU Simulation with Fine-Grained Error Modeling and...',
           description: "",
           section: "News",},{id: "news-my-personal-webpage-has-been-renewed",
