@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href="https://www.scs.gatech.edu/">Computer Science</a> PhD student at Georgia Tech.
+description: Euijun Chung - Computer Science PhD student at Georgia Tech researching GPU architecture, GPU security, and GPU simulations. Member of the HPArch research group advised by Dr. Hyesoon Kim.
 
 profile:
   align: right
