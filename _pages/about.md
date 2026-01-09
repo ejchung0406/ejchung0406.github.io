@@ -28,6 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I’m Euijun (_E - June_) Chung, a second-year Ph.D. student at Georgia Tech. My research focuses on GPU architecture, GPU security, and GPU simulations. 
+Hello! I’m Euijun (_E - June_) Chung, a third-year Ph.D. student at Georgia Tech. My research focuses on GPU architecture, GPU security, and GPU simulations. 
 
 I am a member of the [HPArch research group](https://sites.gatech.edu/hparch/), where I am advised by Dr. Hyesoon Kim. Before I joined Georgia Tech, I received my B.S. in [Electrical Engineering from KAIST](https://ee.kaist.ac.kr/en/) in 2024.
